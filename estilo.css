@@ -88,3 +88,41 @@ header h2{
     margin-left: 1%;
     text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
+
+h3{
+    font-size: 1.4em;
+    margin-top: 20px;
+    color:brown;
+}
+
+section hr{
+    border: 0;
+    height: 2px;
+    background-color: brown;
+    margin: 10px;
+}
+
+section{
+    background: whitesmoke;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+ul{
+    list-style: none;
+}
+
+ul li{
+    padding: 5px 0;
+}
+
+article{
+    margin-bottom: 15px;
+}
+
+i{
+    color:orange;
+    margin-right: 8px;
+}
